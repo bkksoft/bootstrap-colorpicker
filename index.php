@@ -4,9 +4,10 @@
   <title>Bootstrap Colorpicker</title>
 
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
-  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="main.css">
 
-  
+  <script src="jquery.js"></script>
+  <script src="main.js"></script>
 </head>
 <body>
 
@@ -15,11 +16,7 @@
   <input type="text" id="color" name="color" autocomplete="off" class="color-input">
   </form>
 
-  <script src="jquery.js"></script>
-
-
-  <link href="bootstrap-colorpicker.min.css" />
-  <script src="bootstrap-colorpicker.min.js"></script>
+  
 
 <script>
 
